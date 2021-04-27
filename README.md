@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+## I am Mihir! 
+#### I am a final year Computer Science student.
+#### I have developed some projects in HTML/CSS, Python and I am learning Flutter!
+#### I am interested in Cloud Computing, Networking and CyberSecurity.
+##### You can reach me on Linkedin: linkedin.com/in/mihir-mj.
 <!--
 **mihir-mj/mihir-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
