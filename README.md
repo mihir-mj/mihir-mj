@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Mihir! 
-#### I am a final year Computer Science student.
+#### I am a Computer Science Grad Student at Stevens Institute of Technology.
 #### I have developed some projects in HTML/CSS, Python and I am learning Flutter!
 #### I am interested in Cloud Computing, Networking and CyberSecurity.
 ##### You can reach me on Linkedin: https://linkedin.com/in/mihir-mj
